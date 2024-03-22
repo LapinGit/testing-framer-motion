@@ -7,8 +7,7 @@ const Navbar = () => {
     <div className="flex flex-row bg-black text-white flex-initial h-20 items-center">
       {/* left links*/}
       <div
-        className=" grow-0 uppercase ml-7
-                    "
+        className=" grow-0 uppercase ml-7"
       >
         <Link className="max-md:hidden" href="/">Home</Link>
       </div>
