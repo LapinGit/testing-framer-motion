@@ -217,3 +217,29 @@ h6,.t-h-6 {
 .max-w-500 {
   max-width: 500px;
 }
+
+.headline__word {
+  display: inline-block;
+  width: fit-content;
+  white-space: nowrap
+}
+
+.headline__word__char {
+  display: inline-block;
+  transform: scale(0, 0);
+}
+.section-cards__item {
+  position: sticky;
+  background-color: var(--cr-black);
+  height: calc(var(--card-base-height) - var(--card-margin)*2);
+  padding: var(--s-3);
+  border: var(--border);
+  border-radius: var(--radius-1)
+}
+.section-cards__item_grad {
+  height: calc(var(--card-base-height) - var(--card-margin)*2);
+  padding: var(--s-3);
+  border: var(--border);
+  border-radius: var(--radius-1)
+
+}
