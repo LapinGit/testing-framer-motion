@@ -256,7 +256,7 @@ h6,
   width: 100%;
 }
 .section-press__slider .embla-viewport {
-  padding: 0 var(--s-4);
+  padding: 0 var(--s-2);
 }
 
 @media (max-width: 900px) {
@@ -328,9 +328,9 @@ body {
   flex: none;
   width: var(--width);
   border: var(--border);
-  border-radius: var(--radius-2);
+  border-radius: var(--radius-3);
   overflow: hidden;
-  padding: var(--s-4) var(--s-3);
+  padding: var(--s-6) var(--s-3);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -342,7 +342,7 @@ body {
 
 .section-press__slide__excerpt {
   flex: 1;
-  max-width: 400px;
+  max-width:450px;
   margin: 0 auto
 }
 

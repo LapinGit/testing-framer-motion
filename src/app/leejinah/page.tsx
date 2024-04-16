@@ -16,32 +16,29 @@ const Leejinah = () => {
           className="w-1/4 mt-5 rounded-full"
         />
       </div>
-      <div className=" flex">
-        <div className="embla-viewport js-embla-viewport is-draggable embla--is-ready bg-indigo-400 	 ">
+      <div className=" flex ">
+        <div className="embla-viewport  bg-indigo-400 	 ">
           <div className="embla-container ">
             <div className="embla-slide section-press__slide is-selected">
               <p className="section-press__slide__excerpt">
-              PANEL TEST
-
+              Lee Jin-ah sings of emotions of city life
               </p>
             </div>
           </div>
         </div>
-        <div className="embla-viewport js-embla-viewport is-draggable embla--is-ready bg-yellow-200 	 ">
+        <div className="embla-viewport   bg-yellow-200 	 ">
           <div className="embla-container  ">
             <div className="embla-slide section-press__slide is-selected">
               <p className="section-press__slide__excerpt">
-           PANEL TEST
-              </p>
+              Airy jazz meets the future of K-POP              </p>
             </div>
           </div>
         </div>
-        <div className="embla-viewport js-embla-viewport is-draggable embla--is-ready bg-lime-300		 ">
+        <div className="embla-viewport   bg-lime-300		 ">
           <div className="embla-container  ">
             <div className="embla-slide section-press__slide is-selected">
               <p className="section-press__slide__excerpt">
-              PANEL TEST
-
+Lee has cemented a style that may well be unique for her
               </p>
             </div>
           </div>
